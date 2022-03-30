@@ -1,0 +1,2 @@
+# terzi.testnet
+Near Testnet
